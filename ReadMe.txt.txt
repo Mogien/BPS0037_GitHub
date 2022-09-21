@@ -1,2 +1,2 @@
 #Sample File
-Edited Sample Message
+Branch Sample Message
